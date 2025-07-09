@@ -1,4 +1,4 @@
-# HMM-Based Protein Domain Classification
+# Seminar 2: HMM-Based Protein Domain Classification
 
 > **Author:** Domagoj Sviličić  
 > **Supervisor:** Doc. Dr. Sc. Krešimir Križanović  
